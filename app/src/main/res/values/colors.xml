@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Shades of Green for AnonChat -->
+
+    <color name="green_dark">#004D40</color>       <!-- Dark Green for text and accents -->
+    <color name="green_primary">#00796B</color>     <!-- Primary Green for buttons -->
+    <color name="green_light_bg">#E0F2F1</color>    <!-- Very light green for the background -->
+    <color name="green_text_light">#4DB6AC</color>  <!-- Lighter text color for subtitles -->
+    <color name="bubble_sent">#C8E6C9</color> <!-- A light green for sent messages -->
+    <color name="bubble_received">#FFFFFF</color> <!-- White for received messages -->
+
+
+</resources>
